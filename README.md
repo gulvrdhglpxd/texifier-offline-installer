@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-LaTeX+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Texifier Free Installer** — Texifier (formerly Texpad) is a macOS and iOS LaTeX editor with continuous live PDF preview, a smart document outline view, and a bundled LaTeX engine requiring no separate installation. Works without internet access, no account required. Full offline installation.
+**💻 Texifier Free Installer** — Texifier (formerly Texpad) is a premium LaTeX editor for macOS and iOS featuring continuous compilation that updates the PDF preview as you type. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Texifier
 
-Texifier (formerly Texpad) is a macOS and iOS LaTeX editor with continuous live PDF preview, a smart document outline view, and a bundled LaTeX engine requiring no separate installation. Provides the most streamlined LaTeX experience on macOS.
+Texifier (formerly Texpad) is a premium LaTeX editor for macOS and iOS featuring continuous compilation that updates the PDF preview as you type. With an integrated TeX distribution, Texifier works without external installation and supports BibTeX, glossaries, and custom compilation scripts. Its autocomplete engine understands LaTeX document structure for intelligent suggestions.
 
 ---
 
 ## ❌ Problem: Texifier is hard to access
 
-- **macOS and iOS Only** — No Windows or Linux version
-- **Paid App** — Requires purchase from Mac App Store
-- **Proprietary Typesetting** — Bundled engine may produce slightly different output than standard TeX Live
-- **High Price** — Premium pricing for a LaTeX editor
+- **Apple Only** — macOS and iOS only; no Windows version
+- **Commercial License** — Subscription or one-time purchase required
+- **Bundled Distribution Size** — Integrated TeX distribution adds significant application size
+- **Price Point** — Premium pricing compared to free alternatives like TeXstudio
 
 ---
 
@@ -121,7 +121,7 @@ Texifier (formerly Texpad) is a macOS and iOS LaTeX editor with continuous live 
 
 ---
 
-**Texifier Free Installer** — Texifier (formerly Texpad) is a macOS and iOS LaTeX editor with continuous live PDF preview, a smart document outline view, and a bundled LaTeX engine requiring no separate installation. Install without internet connection today!
+**Texifier Free Installer** — Texifier (formerly Texpad) is a premium LaTeX editor for macOS and iOS featuring continuous compilation that updates the PDF preview as you type. Install without internet connection today!
 
 <div align="center">
 
